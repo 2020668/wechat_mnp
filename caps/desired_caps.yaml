@@ -1,0 +1,10 @@
+platformName: Android
+automationName: UiAutomator2
+platformVersion: 9
+deviceName: mi8_lite
+appPackage: com.tencent.mm
+appActivity: com.tencent.mm.ui.LauncherUI
+noRest: True
+chromeOptions: {'androidProcess': 'com.tencent.mm:tools'},
+
+
